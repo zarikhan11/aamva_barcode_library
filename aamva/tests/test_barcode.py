@@ -17,7 +17,7 @@ barcode_testdata = (
         (
             ("DL",{
                 'DAQ': '0123456789ABC',
-                'DAA': 'PUBLIC,JOHN,Q',
+                'DAA': 'PUBLIC,NASIR,Q',
                 'DAG': '123 MAIN STREET',
                 'DAI': 'ANYTOWN',
                 'DAJ': 'VA',
